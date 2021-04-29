@@ -1,0 +1,16 @@
+.flex{
+    width: 600px;
+    height: 600px;
+    border: 1px solid #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex_content{
+   border-top: 20px solid red ;
+   border-left: 20px solid transparent ;
+   border-right: 20px solid transparent ;
+   border-bottom: 20px solid transparent ;
+
+}
